@@ -1,0 +1,16 @@
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.exe.config
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.exe
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.pdb
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.Form1.resources
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.Properties.Resources.resources
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.csproj.GenerateResource.Cache
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.exe
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.pdb
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice1.png
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice2.png
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice3.png
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice4.png
+c:\users\jshay\documents\visual studio 2015\Projects\DiceGameUOPWeek1\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice5.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.exe.config
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.exe
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.pdb

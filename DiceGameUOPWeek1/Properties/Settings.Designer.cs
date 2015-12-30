@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StudentLinq.Properties
+namespace DiceGameUOPWeek1.Properties
 {
 
 

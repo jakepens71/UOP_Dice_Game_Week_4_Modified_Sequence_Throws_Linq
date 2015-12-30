@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLinq", "StudentLinq\StudentLinq.csproj", "{09048265-E588-4EBF-A860-A9F5A0F8EED9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGameUOPWeek4", "DiceGameUOPWeek1\DiceGameUOPWeek4.csproj", "{76F4A66A-C630-4F8C-B1A2-98244A9E91C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{09048265-E588-4EBF-A860-A9F5A0F8EED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09048265-E588-4EBF-A860-A9F5A0F8EED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09048265-E588-4EBF-A860-A9F5A0F8EED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09048265-E588-4EBF-A860-A9F5A0F8EED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F4A66A-C630-4F8C-B1A2-98244A9E91C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F4A66A-C630-4F8C-B1A2-98244A9E91C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F4A66A-C630-4F8C-B1A2-98244A9E91C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F4A66A-C630-4F8C-B1A2-98244A9E91C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
