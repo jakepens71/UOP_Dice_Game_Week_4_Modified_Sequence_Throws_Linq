@@ -12,56 +12,64 @@ namespace DiceGameUOPWeek1
 {
     public partial class Form1 : Form
     {
-        //Instantiate new dice1 and dice2 objects
-        Dice1 dice1 = new Dice1();
-        Dice2 dice2 = new Dice2();
-
-        //Create random number generator object
-        Random random = new Random();
-
-        //Create images object
-        Images image = new Images();
+        List<int> sequence1 = new List<int>();
+        List<int> sequence2 = new List<int>();
 
         public Form1()
         {
             InitializeComponent();
-
         }
 
         private void btnRollDice_Click(object sender, EventArgs e)
         {
-            lstRollResult.Items.Clear();
+            RandomNumberGenerator rnd = new RandomNumberGenerator();
 
-            for (int i = 0; i < 100; i++)
+            lstSequence1.Items.Clear();
+            lstSequence2.Items.Clear();
+            lstNotInSequence1.Items.Clear();
+            lstNotInSequence2.Items.Clear();
+
+
+            for(int i = 0; i < 100; i++)
             {
-                picDice1.Image = null;
-                picDice2.Image = null;
+                int random1 = rnd.getRandom(1, 7);
+                int random2 = rnd.getRandom(1, 7);
 
+                Throw throwDice1 = new Throw();
+                throwDice1.executeThrow(random1, random2);
+                sequence1.Add(throwDice1.getTotalOfBothDice());
 
-                //For Dice 1
-                int randomNumber1 = random.Next(1, 7);
-                dice1.setDice1(randomNumber1);
-                string filePath1 = image.getPictureName(dice1.getDice1());
-                var newImage = Image.FromFile(filePath1);
-                picDice1.Image = newImage;
-                picDice1.Refresh();
+                int roll = i + 1;
 
+                lstSequence1.Items.Add("Dice 1: " + throwDice1.getDice1() + " Dice 2: " + throwDice1.getDice2() + " For a total of: " + throwDice1.getTotalOfBothDice() + " on Roll: " + roll.ToString());
+            }
 
-                //For dice 2
-                int randomNumber2 = random.Next(1, 7);
-                dice2.setDice2(randomNumber2);
-                string filePath2 = image.getPictureName(dice2.getDice2());
-                var dice2Image = Image.FromFile(filePath2);
-                picDice2.Image = dice2Image;
-                picDice2.Refresh();
+            for (int y = 0; y < 100; y++)
+            {
+                int random1 = rnd.getRandom(1, 7);
+                int random2 = rnd.getRandom(1, 7);
 
-                if (randomNumber1 == randomNumber2)
-                {
-                    int rollIteration = i - 1;
-                    lstRollResult.Items.Add("Dice 1: " + randomNumber1.ToString() + " : Dice 2: " + randomNumber2.ToString() + " on Roll: " + rollIteration.ToString());
-                }
+                Throw throwDice2 = new Throw();
+                throwDice2.executeThrow(random1, random2);
+                sequence2.Add(throwDice2.getTotalOfBothDice());
+
+                int roll = y + 1;
+
+                lstSequence2.Items.Add("Dice 1: " + throwDice2.getDice1() + " Dice 2: " + throwDice2.getDice2() + " For a total of: " + throwDice2.getTotalOfBothDice() + " on Roll: " + roll.ToString());
 
             }
+
+            IEnumerable<int> onlyInSequence1 = sequence1.Except(sequence2);
+
+            foreach (int number in onlyInSequence1)
+                lstNotInSequence2.Items.Add(number);
+
+
+            IEnumerable<int> onlyInSequence2 = sequence2.Except(sequence1);
+
+            foreach (int number in onlyInSequence2)
+                lstNotInSequence1.Items.Add(number);
+
         }
     }
 }

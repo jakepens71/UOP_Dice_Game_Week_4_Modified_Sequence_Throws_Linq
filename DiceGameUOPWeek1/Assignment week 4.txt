@@ -4,6 +4,9 @@ Assignment Preparation: Activities include watching the Microsoft Virtual Academ
     Watch Module 08, "Using LINQ to Objects and XML; Fundamentals of Serialization," of the Microsoft Virtual Academy "Programming in C# Jump Start," developer training course.
     Watch various secction of the Lynda.com "C# Essential Training," video.
 
- Assignment: Design, implement, test, and debug a C# program to demonstrate the use of LINQ.  Using the dice simulation scenario in week 1, change the program such that the program could run at least 2 sequences of 100 throws, and generate two lists containing the dice total of each throw.
+ Assignment: Design, implement, test, and debug a C# program to demonstrate the use of LINQ. 
+ Using the dice simulation scenario in week 1, change the program such that 
+ the program could run at least 2 sequences of 100 throws, 
+ and generate two lists containing the dice total of each throw.
 
 Compare how these two sequences are different using IEnumerable.Except.

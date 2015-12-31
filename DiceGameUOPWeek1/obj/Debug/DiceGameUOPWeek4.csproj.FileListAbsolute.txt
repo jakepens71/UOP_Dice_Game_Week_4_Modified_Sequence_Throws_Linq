@@ -15,3 +15,14 @@ C:\Users\jshay\Desktop\UOP\UOP_Dice_Game\DiceGameUOPWeek1\obj\Debug\DiceGameUOPW
 C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.exe.config
 C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.exe
 C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.pdb
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice1.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice2.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice3.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice4.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\dice_pictures\dice5.png
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.exe
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\bin\Debug\DiceGameUOPWeek1.pdb
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek4.csprojResolveAssemblyReference.cache
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.Form1.resources
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek1.Properties.Resources.resources
+C:\Users\jshay\Desktop\UOP\UOP_Dice_Game_Week_4_Modified_Sequence_Throws_Linq\DiceGameUOPWeek1\obj\Debug\DiceGameUOPWeek4.csproj.GenerateResource.Cache
